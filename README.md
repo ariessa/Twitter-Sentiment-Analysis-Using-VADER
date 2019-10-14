@@ -6,7 +6,7 @@ simple rule-based model that was created specifically for sentiment analysis on 
 
 </br>
 
-Further information about the project can be read [here](Twitter Sentiment Analysis Using Vader.pdf).
+Further information about the project can be read [here](https://github.com/ariessa/Twitter-Sentiment-Analysis-Using-VADER/blob/master/Twitter%20Sentiment%20Analysis%20Using%20Vader.pdf).
 
 </br>
 
